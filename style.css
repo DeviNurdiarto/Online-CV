@@ -3,6 +3,7 @@ body {
     justify-content: center;
     padding: 0 auto;
     font-family: 'Pacifico', cursive;
+    font-size: 30px;
 }
 
 .text {
@@ -17,9 +18,10 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    color: #EEEEEE;
+    color: #FFF1DC;
     padding: 0 auto;
     margin: 10px;
+    font-size: 20px;
 }
 
 #main div {
